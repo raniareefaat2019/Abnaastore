@@ -12,9 +12,32 @@
 		184931E82253470300A2B34B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184931E62253470300A2B34B /* Main.storyboard */; };
 		184931EA2253470500A2B34B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 184931E92253470500A2B34B /* Assets.xcassets */; };
 		184931ED2253470500A2B34B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184931EB2253470500A2B34B /* LaunchScreen.storyboard */; };
+		1849A6C02254A7F10059977D /* RASideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1849A6BF2254A7F10059977D /* RASideMenu.swift */; };
+		1849A6C92254AA300059977D /* Cairo-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1849A6C52254A97A0059977D /* Cairo-Black.ttf */; };
+		1849A6CA2254AA320059977D /* Cairo-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1849A6C42254A97A0059977D /* Cairo-ExtraLight.ttf */; };
+		1849A6CB2254AA360059977D /* Cairo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1849A6C82254A98C0059977D /* Cairo-Regular.ttf */; };
+		1849A6CC2254AA380059977D /* Cairo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1849A6C72254A9850059977D /* Cairo-Bold.ttf */; };
+		1849A6CD2254AA3B0059977D /* Cairo-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1849A6C62254A97A0059977D /* Cairo-Light.ttf */; };
+		1849A6CE2254AA3E0059977D /* Cairo-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1849A6C32254A97A0059977D /* Cairo-SemiBold.ttf */; };
+		1849A6D12254ABF70059977D /* RAHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1849A6D02254ABF70059977D /* RAHome.swift */; };
+		18525888225601900038542C /* CircleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18525887225601900038542C /* CircleViewController.swift */; };
+		1852588A225601D80038542C /* ViewCornerRadious.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18525889225601D80038542C /* ViewCornerRadious.swift */; };
+		1852588C2256021A0038542C /* ButtonCornerRadious.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1852588B2256021A0038542C /* ButtonCornerRadious.swift */; };
+		1852588E225602430038542C /* ImageCornerRadious.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1852588D225602430038542C /* ImageCornerRadious.swift */; };
+		18525890225603970038542C /* RAHome+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1852588F225603970038542C /* RAHome+Extension.swift */; };
+		18525893225625FA0038542C /* AllProducts_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18525892225625FA0038542C /* AllProducts_Model.swift */; };
+		18525895225627410038542C /* URLS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18525894225627410038542C /* URLS.swift */; };
+		18525897225628190038542C /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18525896225628190038542C /* API.swift */; };
+		18C881042255FC490042BDCC /* RAHomeCategoriesCVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C881032255FC490042BDCC /* RAHomeCategoriesCVC.swift */; };
+		18CDA3C522562CF50080715E /* API+Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CDA3C422562CF50080715E /* API+Category.swift */; };
+		18D041752259EE390048478F /* ALLCategory+Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D041742259EE390048478F /* ALLCategory+Model.swift */; };
+		18D04177225A1CB20048478F /* RAHome+ExtensionFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D04176225A1CB20048478F /* RAHome+ExtensionFunction.swift */; };
+		18D04179225A1DE30048478F /* RAHome+ExtensionFunctionTableData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D04178225A1DE30048478F /* RAHome+ExtensionFunctionTableData.swift */; };
+		19763FC93AA6D272402E50E0 /* Pods_Abnaastore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8E7CE2644702D8D23C640EE /* Pods_Abnaastore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04E6B38D637FA30F3033D434 /* Pods-Abnaastore.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abnaastore.release.xcconfig"; path = "Pods/Target Support Files/Pods-Abnaastore/Pods-Abnaastore.release.xcconfig"; sourceTree = "<group>"; };
 		184931DF2253470300A2B34B /* Abnaastore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Abnaastore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		184931E22253470300A2B34B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		184931E42253470300A2B34B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +45,29 @@
 		184931E92253470500A2B34B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		184931EC2253470500A2B34B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		184931EE2253470500A2B34B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1849A6BF2254A7F10059977D /* RASideMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RASideMenu.swift; sourceTree = "<group>"; };
+		1849A6C32254A97A0059977D /* Cairo-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-SemiBold.ttf"; sourceTree = "<group>"; };
+		1849A6C42254A97A0059977D /* Cairo-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-ExtraLight.ttf"; sourceTree = "<group>"; };
+		1849A6C52254A97A0059977D /* Cairo-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Black.ttf"; sourceTree = "<group>"; };
+		1849A6C62254A97A0059977D /* Cairo-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Light.ttf"; sourceTree = "<group>"; };
+		1849A6C72254A9850059977D /* Cairo-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Bold.ttf"; sourceTree = "<group>"; };
+		1849A6C82254A98C0059977D /* Cairo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Regular.ttf"; sourceTree = "<group>"; };
+		1849A6D02254ABF70059977D /* RAHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RAHome.swift; sourceTree = "<group>"; };
+		18525887225601900038542C /* CircleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleViewController.swift; sourceTree = "<group>"; };
+		18525889225601D80038542C /* ViewCornerRadious.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewCornerRadious.swift; sourceTree = "<group>"; };
+		1852588B2256021A0038542C /* ButtonCornerRadious.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonCornerRadious.swift; sourceTree = "<group>"; };
+		1852588D225602430038542C /* ImageCornerRadious.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCornerRadious.swift; sourceTree = "<group>"; };
+		1852588F225603970038542C /* RAHome+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RAHome+Extension.swift"; sourceTree = "<group>"; };
+		18525892225625FA0038542C /* AllProducts_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllProducts_Model.swift; sourceTree = "<group>"; };
+		18525894225627410038542C /* URLS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLS.swift; sourceTree = "<group>"; };
+		18525896225628190038542C /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		18C881032255FC490042BDCC /* RAHomeCategoriesCVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RAHomeCategoriesCVC.swift; sourceTree = "<group>"; };
+		18CDA3C422562CF50080715E /* API+Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "API+Category.swift"; sourceTree = "<group>"; };
+		18D041742259EE390048478F /* ALLCategory+Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ALLCategory+Model.swift"; sourceTree = "<group>"; };
+		18D04176225A1CB20048478F /* RAHome+ExtensionFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RAHome+ExtensionFunction.swift"; sourceTree = "<group>"; };
+		18D04178225A1DE30048478F /* RAHome+ExtensionFunctionTableData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RAHome+ExtensionFunctionTableData.swift"; sourceTree = "<group>"; };
+		2F112C6AC227147D8AE46C07 /* Pods-Abnaastore.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abnaastore.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Abnaastore/Pods-Abnaastore.debug.xcconfig"; sourceTree = "<group>"; };
+		B8E7CE2644702D8D23C640EE /* Pods_Abnaastore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Abnaastore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19763FC93AA6D272402E50E0 /* Pods_Abnaastore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,8 +85,19 @@
 		184931D62253470300A2B34B = {
 			isa = PBXGroup;
 			children = (
+				184931E62253470300A2B34B /* Main.storyboard */,
+				184931FB22534A8200A2B34B /* View */,
+				184931FA22534A7900A2B34B /* Protocols */,
+				184931F922534A7100A2B34B /* Model */,
+				184931F722534A5E00A2B34B /* Desigens */,
+				184931F622534A5200A2B34B /* Controller */,
+				184931F5225349CA00A2B34B /* Constants */,
+				184931F42253497D00A2B34B /* API Service */,
+				184931F822534A6800A2B34B /* Fonts */,
 				184931E12253470300A2B34B /* Abnaastore */,
 				184931E02253470300A2B34B /* Products */,
+				EA83E7881BB63574C718EC94 /* Pods */,
+				E5945021138BA4CB255946DE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,12 +114,153 @@
 			children = (
 				184931E22253470300A2B34B /* AppDelegate.swift */,
 				184931E42253470300A2B34B /* ViewController.swift */,
-				184931E62253470300A2B34B /* Main.storyboard */,
 				184931E92253470500A2B34B /* Assets.xcassets */,
 				184931EB2253470500A2B34B /* LaunchScreen.storyboard */,
 				184931EE2253470500A2B34B /* Info.plist */,
 			);
 			path = Abnaastore;
+			sourceTree = "<group>";
+		};
+		184931F42253497D00A2B34B /* API Service */ = {
+			isa = PBXGroup;
+			children = (
+				18525896225628190038542C /* API.swift */,
+				18CDA3C322562CA40080715E /* API+Category */,
+			);
+			path = "API Service";
+			sourceTree = "<group>";
+		};
+		184931F5225349CA00A2B34B /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				18525894225627410038542C /* URLS.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		184931F622534A5200A2B34B /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				1849A6CF2254ABDE0059977D /* SideMenuCode */,
+				1849A6BE2254A7D80059977D /* Home */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		184931F722534A5E00A2B34B /* Desigens */ = {
+			isa = PBXGroup;
+			children = (
+				18525887225601900038542C /* CircleViewController.swift */,
+				18525889225601D80038542C /* ViewCornerRadious.swift */,
+				1852588B2256021A0038542C /* ButtonCornerRadious.swift */,
+				1852588D225602430038542C /* ImageCornerRadious.swift */,
+			);
+			path = Desigens;
+			sourceTree = "<group>";
+		};
+		184931F822534A6800A2B34B /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				1849A6C52254A97A0059977D /* Cairo-Black.ttf */,
+				1849A6C42254A97A0059977D /* Cairo-ExtraLight.ttf */,
+				1849A6C82254A98C0059977D /* Cairo-Regular.ttf */,
+				1849A6C72254A9850059977D /* Cairo-Bold.ttf */,
+				1849A6C62254A97A0059977D /* Cairo-Light.ttf */,
+				1849A6C32254A97A0059977D /* Cairo-SemiBold.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		184931F922534A7100A2B34B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				18D041732259EE1C0048478F /* Category */,
+				18525891225625DD0038542C /* Products */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		184931FA22534A7900A2B34B /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		184931FB22534A8200A2B34B /* View */ = {
+			isa = PBXGroup;
+			children = (
+				18C881022255FC140042BDCC /* HomeCategoriesCell */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1849A6BE2254A7D80059977D /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				1849A6D02254ABF70059977D /* RAHome.swift */,
+				1852588F225603970038542C /* RAHome+Extension.swift */,
+				18D04176225A1CB20048478F /* RAHome+ExtensionFunction.swift */,
+				18D04178225A1DE30048478F /* RAHome+ExtensionFunctionTableData.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		1849A6CF2254ABDE0059977D /* SideMenuCode */ = {
+			isa = PBXGroup;
+			children = (
+				1849A6BF2254A7F10059977D /* RASideMenu.swift */,
+			);
+			path = SideMenuCode;
+			sourceTree = "<group>";
+		};
+		18525891225625DD0038542C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				18525892225625FA0038542C /* AllProducts_Model.swift */,
+			);
+			path = Products;
+			sourceTree = "<group>";
+		};
+		18C881022255FC140042BDCC /* HomeCategoriesCell */ = {
+			isa = PBXGroup;
+			children = (
+				18C881032255FC490042BDCC /* RAHomeCategoriesCVC.swift */,
+			);
+			path = HomeCategoriesCell;
+			sourceTree = "<group>";
+		};
+		18CDA3C322562CA40080715E /* API+Category */ = {
+			isa = PBXGroup;
+			children = (
+				18CDA3C422562CF50080715E /* API+Category.swift */,
+			);
+			path = "API+Category";
+			sourceTree = "<group>";
+		};
+		18D041732259EE1C0048478F /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				18D041742259EE390048478F /* ALLCategory+Model.swift */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		E5945021138BA4CB255946DE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B8E7CE2644702D8D23C640EE /* Pods_Abnaastore.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EA83E7881BB63574C718EC94 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2F112C6AC227147D8AE46C07 /* Pods-Abnaastore.debug.xcconfig */,
+				04E6B38D637FA30F3033D434 /* Pods-Abnaastore.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +270,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 184931F12253470500A2B34B /* Build configuration list for PBXNativeTarget "Abnaastore" */;
 			buildPhases = (
+				CCAC0602197DBD5E5646B4F6 /* [CP] Check Pods Manifest.lock */,
 				184931DB2253470300A2B34B /* Sources */,
 				184931DC2253470300A2B34B /* Frameworks */,
 				184931DD2253470300A2B34B /* Resources */,
+				7C92D581C809720D6C598201 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -122,21 +323,101 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1849A6CB2254AA360059977D /* Cairo-Regular.ttf in Resources */,
 				184931ED2253470500A2B34B /* LaunchScreen.storyboard in Resources */,
+				1849A6CE2254AA3E0059977D /* Cairo-SemiBold.ttf in Resources */,
+				1849A6CA2254AA320059977D /* Cairo-ExtraLight.ttf in Resources */,
 				184931EA2253470500A2B34B /* Assets.xcassets in Resources */,
 				184931E82253470300A2B34B /* Main.storyboard in Resources */,
+				1849A6C92254AA300059977D /* Cairo-Black.ttf in Resources */,
+				1849A6CD2254AA3B0059977D /* Cairo-Light.ttf in Resources */,
+				1849A6CC2254AA380059977D /* Cairo-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7C92D581C809720D6C598201 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Abnaastore/Pods-Abnaastore-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/CodableAlamofire/CodableAlamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework",
+				"${BUILT_PRODUCTS_DIR}/MaterialTextField/MaterialTextField.framework",
+				"${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CodableAlamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Kingfisher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MaterialTextField.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SideMenu.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Abnaastore/Pods-Abnaastore-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CCAC0602197DBD5E5646B4F6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Abnaastore-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		184931DB2253470300A2B34B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1852588C2256021A0038542C /* ButtonCornerRadious.swift in Sources */,
 				184931E52253470300A2B34B /* ViewController.swift in Sources */,
+				18D04179225A1DE30048478F /* RAHome+ExtensionFunctionTableData.swift in Sources */,
+				1852588E225602430038542C /* ImageCornerRadious.swift in Sources */,
+				18D04177225A1CB20048478F /* RAHome+ExtensionFunction.swift in Sources */,
+				18525893225625FA0038542C /* AllProducts_Model.swift in Sources */,
+				18CDA3C522562CF50080715E /* API+Category.swift in Sources */,
+				1852588A225601D80038542C /* ViewCornerRadious.swift in Sources */,
+				18C881042255FC490042BDCC /* RAHomeCategoriesCVC.swift in Sources */,
+				18525888225601900038542C /* CircleViewController.swift in Sources */,
+				18525895225627410038542C /* URLS.swift in Sources */,
+				18525897225628190038542C /* API.swift in Sources */,
+				1849A6C02254A7F10059977D /* RASideMenu.swift in Sources */,
 				184931E32253470300A2B34B /* AppDelegate.swift in Sources */,
+				1849A6D12254ABF70059977D /* RAHome.swift in Sources */,
+				18525890225603970038542C /* RAHome+Extension.swift in Sources */,
+				18D041752259EE390048478F /* ALLCategory+Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +561,7 @@
 		};
 		184931F22253470500A2B34B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2F112C6AC227147D8AE46C07 /* Pods-Abnaastore.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -298,6 +580,7 @@
 		};
 		184931F32253470500A2B34B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 04E6B38D637FA30F3033D434 /* Pods-Abnaastore.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
